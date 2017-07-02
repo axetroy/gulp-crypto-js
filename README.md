@@ -1,5 +1,7 @@
 # gulp-crypto-js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/gulp-crypto-js.svg)](https://greenkeeper.io/)
+
 gulp plugin for crypto-js
 
 ## Installation
